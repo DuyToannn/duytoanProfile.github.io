@@ -275,8 +275,7 @@ img {
 
 .home__name{
   font-size:2.5rem;
-  
-  color:#ffff;
+  color: white;
   letter-spacing:1px;
   cursor:pointer;
 }
