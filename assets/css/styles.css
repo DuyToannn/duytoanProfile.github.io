@@ -276,7 +276,7 @@ img {
 .home__name{
   font-size:2.5rem;
   
-  color:#fff;
+  color:#ffff;
   letter-spacing:1px;
   cursor:pointer;
 }
@@ -299,7 +299,7 @@ img {
 .home__name:hover span{
   color:#fff;
   text-shadow: 0 0 2px #fff,
-               0 0 5px #fff,
+               0 0 4px #fff,
                0 0 30px #fff,
                0 0 60px #fff,
                0 0 50px #fff,
