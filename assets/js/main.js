@@ -94,9 +94,8 @@ gsap.from('.home__social-icon', {opacity: 0, duration: 2, delay:2.3, y:25, ease:
 // typing animation script
 var typed = new Typed('.animation', {
     strings: [
-        "Developer",
+        "Front End",
         "Designer",
-        "Photographer"
     ],
     typeSpeed: 100,
     backSpeed:100,
